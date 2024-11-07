@@ -29,8 +29,8 @@ Proficient in a range of **languages** and **frameworks** focused on frontend de
    - *Tech Stack:* React, CSS
    - *Description:* A community-driven platform where designers can collaborate, showcase, and critique creative projects.
 
-#### 2. [Letter Leap](https://github.com/Tholoana96/letterleap) - Interactive Storytelling Game
-   - *Role:* Concept design, UI/UX, and front-end development
+#### 2. [Letter Leap](https://github.com/Nomcebo1992/Letter_Leap ) - Interactive Alphabet Learning Application
+   - *Role:* Concept design, team lead, UI/UX, and full stack development collaboration
    - *Tech Stack:* JavaScript, HTML, CSS 
    - *Description:* An immersive and interactive storytelling game that leverages animation to engage users in a unique narrative.
 
