@@ -34,7 +34,7 @@ Proficient in a range of **languages** and **frameworks** focused on frontend de
    - *Tech Stack:* JavaScript, HTML, CSS 
    - *Description:* An immersive and interactive storytelling game that leverages animation to engage users in a unique narrative.
 
-#### 3. [Weather App](https://github.com/Tholoana96/weather-app) - Real-Time Weather Updates
+#### 3. [Weather App](https://github.com/Tholoana96/My_Weather_App) - Real-Time Weather Updates
    - *Role:* Frontend development and testing
    - *Tech Stack:* JavaScript, SheCodes Weather API, CSS
    - *Description:* A clean, user-friendly weather app providing accurate real-time weather information.
