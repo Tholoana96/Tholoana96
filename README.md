@@ -44,6 +44,10 @@ Proficient in a range of **languages** and **frameworks** focused on frontend de
    - *Tech Stack:* JavaScript 
    - *Description:* Generates random recipes with user-selected ingredients, making cooking easier and more fun.
 
+#### 5. [World Clock](https://github.com/Tholoana96/World-Clock) - Time Zone Tracker
+   - *Role:* Frontend development and testing
+   - *Tech Stack:* JavaScript, HTML, CSS
+   - *Description:* A world clock app that allows users to view the current time in multiple time zones around the world.
 ---
 
 ### 🏆 Achievements
