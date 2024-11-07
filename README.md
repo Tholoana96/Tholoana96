@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a passionate **Frontend Developer** and a graduating student of the **ALX Software Engineering Program**. My journey in software engineering began here, and I've been continuously inspired by the art and science of frontend development. My goal is to create user-friendly, visually compelling, and highly functional web experiences.
+I’m a passionate **Frontend Developer** and a graduating student of the **ALX Software Engineering Program** as well as **Shecodes Plus**. My journey in software engineering began here, and I've been continuously inspired by the art and science of frontend development. My goal is to create user-friendly, visually compelling, and highly functional web experiences.
 
 - 🌱 **Currently learning:** Advanced frontend techniques and tools
 - 🎯 **Career Goal:** To become a leading front-end developer contributing to impactful, user-centered projects
