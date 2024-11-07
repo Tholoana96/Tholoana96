@@ -53,6 +53,7 @@ Proficient in a range of **languages** and **frameworks** focused on frontend de
 ### 🏆 Achievements
 - **Certification:** ALX Software Engineering Program
 - **Certification:** SheCodes Plus
+- **Certification:** Google UI/UX Design 
 - **Open Source:** Contributed to various open-source projects related to frontend performance optimization and UI design.
 
 ---
